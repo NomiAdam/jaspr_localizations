@@ -1,3 +1,6 @@
+## 1.0.0+beta.5
+- Build: allow Jaspr 0.24 (beta) alongside 0.23
+
 ## 1.0.0+beta.4
 - Feature: DateTime placeholder formatting in generator
 - Build: localization builder ordering to avoid import failures
